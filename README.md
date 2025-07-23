@@ -16,15 +16,17 @@ This project uses weather data and machine learning techniques to analyze and pr
 📁 Supports district-wise weather reports (CSV format)
 
 💾 Outputs annotated datasets with predicted energy source labels
-------------------------------------------------------------------------
+
 ⚙️ Tech Stack
+------------------------------------------------------------------------
 Python, Pandas, NumPy
 
 Joblib (for model persistence if extended)
 
 Easily extendable with ML/DL models for future energy forecasting
-------------------------------------------------------------------------
+
 📌 Use Cases
+------------------------------------------------------------------------
 Renewable energy planning & policy making
 
 Smart city energy grid analysis
@@ -32,8 +34,9 @@ Smart city energy grid analysis
 Educational datasets for data science projects
 
 Decision support for solar/wind/hydro infrastructure placement
----------------------------------------------------------------------------
+
 📊 Data Source
+---------------------------------------------------------------------------
 The weather data used in this project is collected from:
 
 🔗 Visual Crossing Weather
